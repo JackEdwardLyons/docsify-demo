@@ -24,10 +24,3 @@ See the [Quick start](quickstart.md) for more details.
 
 Check out the [Showcase](https://github.com/docsifyjs/docsify/#showcase) to docsify in use.
 
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and development team are in the [Gitter](https://gitter.im/docsifyjs/Lobby).
