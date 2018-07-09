@@ -1,8 +1,6 @@
 * Form Fields
 
   * [Input Fields](html_input_fields.md)
-  * [Custom Navbar](custom-navbar.md)
-  * [More Pages](more-pages.md)
 
 * Customization
   * [Themes](themes.md)
